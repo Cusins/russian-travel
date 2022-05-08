@@ -1,0 +1,11 @@
+@font-face {
+  font-family: intel-black;
+  src: url(../../fonts/Inter-Black.woff);
+  src: url(../../fonts/Inter-Black.woff2);
+}
+
+@font-face {
+  font-family: intel-regular;
+  src: url(../../fonts/Inter-Regular.woff);
+  src: url(../../fonts/Inter-Regular.woff2);
+}
