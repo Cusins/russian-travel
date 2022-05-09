@@ -1,0 +1,9 @@
+.places__text {
+  margin: 0 0 26px 0;
+  font-size: 18px;
+  line-height: 163%;
+}
+
+.places__text:last-child {
+  margin: 0;
+}

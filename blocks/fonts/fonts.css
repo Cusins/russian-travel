@@ -5,7 +5,15 @@
 }
 
 @font-face {
+  font-family: intel-bold;
+  src: url(../../fonts/Inter-Bold.woff);
+  src: url(../../fonts/Inter-Bold.woff2);
+}
+
+@font-face {
   font-family: intel-regular;
   src: url(../../fonts/Inter-Regular.woff);
   src: url(../../fonts/Inter-Regular.woff2);
 }
+
+
