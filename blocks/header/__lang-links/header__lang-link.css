@@ -2,9 +2,18 @@
   font-size: 24px;
   line-height: 28px;
   color: #fff;
+  transition: 0.2s linear;
 }
 
 .header__lang-link:last-child {
   margin-left: 18px;
   text-decoration: none;
 }
+
+.header__lang-link:hover {
+  transition: 0.2s linear;
+  opacity: 0.7;
+}
+
+
+

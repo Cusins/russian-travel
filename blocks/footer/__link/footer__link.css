@@ -1,0 +1,12 @@
+.foorer__link {
+  text-decoration: none;
+  color: #fff;
+  margin-right: 18px;
+  transition: 0.2s linear;
+}
+
+.foorer__link:hover {
+  transition: 0.2s linear;
+  opacity: 0.7;
+}
+
