@@ -2,3 +2,17 @@
   padding: 0 148px;
   margin: 56px auto 92px;
 }
+
+
+@media (max-width: 1280px) {
+  .lead {
+    padding: 0 48px;
+    margin-top: 48px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .lead {
+    padding: 0;
+  }
+}
