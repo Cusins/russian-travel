@@ -8,3 +8,17 @@
     padding: 0 48px;
   }
 }
+
+@media (max-width: 1024px) {
+  .intro {
+    padding: 0 24px;
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 425px) {
+  .intro {
+    padding: 0 16px;
+    margin-bottom: 64px;
+  }
+}

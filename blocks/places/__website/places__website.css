@@ -3,3 +3,9 @@
   flex-direction: column;
   justify-content: end;
 }
+
+@media (max-width: 425px) {
+  .places__website {
+    padding: 0 16px;
+  }
+}

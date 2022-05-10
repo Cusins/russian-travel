@@ -11,3 +11,21 @@
     margin-bottom: 56px;
   }
 }
+
+@media (max-width: 768px) {
+  .lead__subtitle {
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0 auto 16px;
+    padding: 0 24px;
+  }
+}
+
+@media (max-width: 425px) {
+  .lead__subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 auto 40px;
+    padding: 0 16px;
+  }
+}

@@ -6,5 +6,16 @@
   .places {
     padding: 92px 48px;
   }
+}
 
+@media (max-width: 1024px) {
+  .places {
+    padding: 88px 24px 90px;
+  }
+}
+
+@media (max-width: 425px) {
+  .places {
+    padding: 0;
+  }
 }

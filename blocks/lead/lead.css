@@ -13,6 +13,13 @@
 
 @media (max-width: 1024px) {
   .lead {
-    padding: 0;
+    padding: 0px;
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 425px) {
+  .lead {
+    margin-bottom: 64px;
   }
 }

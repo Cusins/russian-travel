@@ -11,3 +11,8 @@
   opacity: 0.7;
 }
 
+@media (max-width: 425px) {
+  .places__link {
+    margin-bottom: 32px;
+  }
+}
