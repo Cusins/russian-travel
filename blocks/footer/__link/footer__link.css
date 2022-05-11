@@ -1,4 +1,4 @@
-.foorer__link {
+.footer__link {
   text-decoration: none;
   color: #fff;
   margin-right: 18px;
@@ -7,13 +7,13 @@
   line-height: 18px;
 }
 
-.foorer__link:hover {
+.footer__link:hover {
   transition: 0.2s linear;
   opacity: 0.7;
 }
 
 @media (max-width: 425px) {
-  .foorer__link {
+  .footer__link {
     text-decoration: none;
     color: #fff;
     margin-bottom: 32px;
