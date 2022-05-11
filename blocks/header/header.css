@@ -11,15 +11,8 @@
   }
 }
 
-@media (max-width: 769px) {
-  /* .header {
-    padding: 28px 24px 0;
-  } */
-}
-
 @media (max-width: 425px) {
   .header {
     padding: 16px 16px 0;
   }
 }
-
