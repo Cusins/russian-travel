@@ -3,10 +3,6 @@
   line-height: 28px;
   color: #fff;
   transition: 0.2s linear;
-}
-
-.header__lang-link:last-child {
-  margin-left: 18px;
   text-decoration: none;
 }
 

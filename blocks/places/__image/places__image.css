@@ -1,6 +1,26 @@
 .places__image {
-  width: 100%;
+  max-width: 460px;
 }
+
+@media (max-width: 1279px) {
+  .places__image {
+    max-width: 440px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .places__image {
+    max-width: 340px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .places__image {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+}
+
 
 @media (max-width: 425px) {
   .places__image {

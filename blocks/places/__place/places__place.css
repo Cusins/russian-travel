@@ -1,7 +1,7 @@
 .places__place {
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: max-content 1fr;
   grid-template-rows: auto auto;
   grid-row-gap: 48px;
   grid-column-gap: 40px;

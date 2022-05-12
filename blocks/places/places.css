@@ -1,4 +1,6 @@
 .places {
+  max-width: 984px;
+  margin: 0 auto;
   padding: 92px 148px;
 }
 
@@ -14,9 +16,8 @@
   }
 }
 
-
 @media (max-width: 425px) {
   .places {
-    padding: 0 0 66px 0;
+    padding: 64px 0 66px;
   }
 }
